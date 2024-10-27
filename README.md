@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="Banner" width="100%" height="250">
 
 <h1 align="center">Hi 👋, I'm Reshma</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">An enthusiastic tech enthusiast from India, with a strong interest in Data Structures and Algorithms, Blockchain, Java, and the MERN stack.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2126reshmab&label=Profile%20views&color=0e75b6&style=flat" alt="2126reshmab" /> </p>
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently pursuing bachelor's degree in **Computer Science and Engineering**
 
-- 🌱 I’m currently learning **React.js, Spring, SpringBoot**
+- 🌱 I’m currently learning ** Spring, SpringBoot, Blockchain**
 
-- 💬 Ask me about **Java, MERN**
+- 💬 Ask me about **Java, MERN, DSA, Solidity**
 
 - 📫 How to reach me **reshma251003@gmail.com**
 
