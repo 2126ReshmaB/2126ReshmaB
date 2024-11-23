@@ -1,6 +1,11 @@
 <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="Banner" width="100%" height="250">
 
 <h1 align="center">Hi 👋, I'm Reshma</h1>
+<p align="center">
+  <a href="[https://your-portfolio-link.com](http://portfolio-8f58.vercel.app/)" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Link" />
+  </a>
+</p>
 <h3 align="center">An tech enthusiast from India, with a strong interest in Data Structures and Algorithms, Blockchain, Java, and Full stack Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
