@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Reshma</h1>
 <p align="center">
-  <a href="[https://your-portfolio-link.com](http://portfolio-8f58.vercel.app/)" target="_blank" rel="noreferrer">
+  <a href="http://portfolio-8f58.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Link" />
   </a>
 </p>
