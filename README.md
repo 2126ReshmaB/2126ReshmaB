@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **reshma251003@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1Fr0s6hgZ4Y4lDVAidU1KUSH5od4XaZtN/view?usp=sharing](https://drive.google.com/file/d/1al0NyiQymvKxSkXtpkfFCQ7yaMoe8F6f/view?usp=sharing))
+- 📄 Know about my experiences (https://drive.google.com/file/d/1GCvjAUDZucuh8fWkrqeKk3urPEkg2hm8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
