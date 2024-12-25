@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently pursuing bachelor's degree in **Computer Science and Engineering**
 
-- 🌱 I’m currently learning ** Spring, SpringBoot, Blockchain**
+- 🌱 I’m currently learning **Spring, SpringBoot, Blockchain**
 
 - 💬 Ask me about **Java, MERN, DSA, Solidity**
 
