@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Spring, SpringBoot, Blockchain**
 
-- 💬 Ask me about **Java, MERN, DSA, Solidity**
+- 💬 Ask me about **Core Java, MERN, DSA, Solidity**
 
 - 📫 How to reach me **reshma251003@gmail.com**
 
